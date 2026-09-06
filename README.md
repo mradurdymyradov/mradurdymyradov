@@ -2,11 +2,11 @@
 
 ### AI-Native Systems Builder & GTM Automation Engineer
 
-[![Target Roles](https://img.shields.io/badge/Focus-GTM_Engineering_%7C_AI_Ops_%7C_Automation-blue.svg)](#-featured-systems)
+[![Target Roles](https://img.shields.io/badge/Focus-GTM_Engineering_%7C_AI_Ops_%7C_Backend_Automation-blue.svg)](#-featured-systems)
 [![Visa Status](https://img.shields.io/badge/US_Work_Auth-BridgeUSA_J--1_Intern_Ready-success.svg)](#-us-bridgeusa-j-1-visa-readiness)
 [![Email](https://img.shields.io/badge/Contact-uncomplexed66%40mail.com-orange.svg)](mailto:uncomplexed66@mail.com)
 
-I combine a business and management background with modern AI-assisted engineering workflows (TypeScript, Python, FastAPI, Next.js, n8n) to design, build, and deploy production automation pipelines and LLM-powered systems at high velocity.
+I combine a business and management background with modern AI-assisted engineering workflows (TypeScript, Python, FastAPI, Next.js, n8n) to design, build, and deploy production automation pipelines, async backends, and multi-agent systems at high velocity.
 
 ---
 
@@ -14,38 +14,45 @@ I combine a business and management background with modern AI-assisted engineeri
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Core** | TypeScript (strict), Python, SQL, Bash |
-| **Full-Stack & Backend** | Next.js 16 (App Router), React 19, FastAPI, Prisma ORM, Tailwind CSS |
+| **Languages & Core** | TypeScript (strict), Python 3.11, SQL, Bash |
+| **Full-Stack & Backend** | FastAPI, async SQLAlchemy 2, Alembic, Next.js 16/14 (App Router), React 19, Prisma ORM, Tailwind CSS |
 | **AI & LLM Orchestration** | Claude API, OpenAI SDK, Multi-Agent Sequential Pipelines, Agent Tracing, Prompt Evaluation, BM25 / RAG |
 | **GTM & Workflow Automation** | n8n (Enterprise workflows), REST APIs, Webhook Listeners, Twilio, WhatsApp Cloud API, HubSpot, Pipedrive |
-| **Databases & DevOps** | PostgreSQL, SQLite, Docker, Docker Compose, Git, Linux |
+| **Databases & DevOps** | PostgreSQL 16, Redis 7, SQLite, Docker, Docker Compose, Caddy 2 (Auto SSL), Git, Linux |
 
 ---
 
 ## 🌟 Featured Systems
 
-### 1. [AI Book Platform](https://github.com/mradurdymyradov/ai-book-platform)
+### 1. [FastAPI Telegram Subscription SaaS Starter](https://github.com/mradurdymyradov/fastapi-telegram-subscription-starter)
+*Enterprise-grade full-stack boilerplate for subscription communities & digital membership SaaS.*
+- **FastAPI 18-Router Backend:** Production architecture with async SQLAlchemy 2 + Alembic (28 PostgreSQL tables), JWT auth with TOTP 2FA, and structlog JSON telemetry.
+- **Idempotent Multi-Provider Billing:** Unified `fulfill_payment` engine handling Stripe recurring subscriptions and on-chain USDT crypto verification (TronGrid & Etherscan with 3-block confirmations).
+- **Autonomous Operations:** aiogram 3 bot generating single-use invite tokens, handling referral attributions (`?start=ref_<code>`), and background access revocation upon non-renewal.
+- **Next.js 14 Admin Panel:** MRR tracking, subscriber management, manual payment moderation, and segment broadcasts.
+
+### 2. [AI Book Platform](https://github.com/mradurdymyradov/ai-book-platform)
 *Multi-agent writing & synthesis engine with real-time execution trace.*
 - Built a controlled **6-agent sequential pipeline** (Orchestration → Search → Writing → Style → Harmonization → Enforcing).
 - Features an interactive **Agent Trace UI** rendering intermediate prompts, model outputs, latency, and status per step.
 - Single-process architecture using **Next.js 16 + React 19 + Prisma 7 + SQLite**, with in-process BM25 retrieval and a provider abstraction layer (Mock & OpenAI-compatible).
 
-### 2. [Speed to Lead Inbound Engine](https://github.com/mradurdymyradov/speed-to-lead)
+### 3. [Speed to Lead Inbound Engine](https://github.com/mradurdymyradov/speed-to-lead)
 *Sub-minute multi-channel prospect engagement and CRM dispatch.*
 - Automated inbound webhook pipeline built in n8n for real-time lead qualification and routing.
 - Handles E.164 phone formatting, instant personalized outreach via WhatsApp Cloud API & Twilio SMS, and two-way sync with CRM (HubSpot / Pipedrive).
 
-### 3. [WhatsApp Booking & Autonomous Ops](https://github.com/mradurdymyradov/whatsapp-booking-appointment)
+### 4. [WhatsApp Booking & Autonomous Ops](https://github.com/mradurdymyradov/whatsapp-booking-appointment)
 *Conversational scheduling assistant with automated calendar operations.*
 - Automated appointment scheduling bot via WhatsApp with Google Calendar slot resolution.
 - Handles instant booking confirmations, collision detection, and automated pre-meeting reminders.
 
-### 4. [Query Sheets/CSV via AI & PostgreSQL](https://github.com/mradurdymyradov/query-sheets-csv-postgresql)
+### 5. [Query Sheets/CSV via AI & PostgreSQL](https://github.com/mradurdymyradov/query-sheets-csv-postgresql)
 *Natural language data ingestion and SQL ETL pipeline.*
 - Ingests Google Sheets and CSV datasets dynamically into PostgreSQL with automated schema generation.
 - Enables stakeholders to query and synthesize tabular business metrics using natural language via LLM integration.
 
-### 5. [Production-Ready Automation Workflow](https://github.com/mradurdymyradov/production-ready-workflow)
+### 6. [Production-Ready Automation Workflow](https://github.com/mradurdymyradov/production-ready-workflow)
 *Enterprise-grade n8n template with resilience guardrails.*
 - Standardized architecture for critical workflows featuring payload validation, centralized error routing, automated retries with exponential backoff, and structured audit logging.
 
