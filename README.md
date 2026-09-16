@@ -74,4 +74,5 @@ I turn operating problems into deployed systems. With a Business and Management 
 ## 📬 Connect
 
 - **GitHub:** [@mradurdymyradov](https://github.com/mradurdymyradov)
+- **Email:** [myrat.durdymyradov.dev@gmail.com](mailto:myrat.durdymyradov.dev@gmail.com)
 - **Location:** Ashgabat (GMT+5) · Open to relocation to San Francisco or New York
