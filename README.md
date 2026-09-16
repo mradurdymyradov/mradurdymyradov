@@ -2,11 +2,11 @@
 
 ### AI-Assisted Product & Automation Builder | GTM Operations
 
-[![Focus](https://img.shields.io/badge/Focus-AI_Automation_%7C_GTM_Operations_%7C_Product_Ops-blue.svg)](#-featured-systems)
-[![US Work Auth](https://img.shields.io/badge/US_Work_Auth-BridgeUSA_J--1_Intern_Ready-success.svg)](#-us-work-authorization)
+[![Focus](https://img.shields.io/badge/Focus-AI_Automation_%7C_GTM_Operations_%7C_Product_Ops-blue.svg)](#-primary-proof-of-work)
+[![US Visa Pathway](https://img.shields.io/badge/US_Visa_Pathway-Potential_BridgeUSA_J--1_Intern-success.svg)](#-us-placement-pathway)
 [![Pavel Case Study](https://img.shields.io/badge/Production_Proof-Pavel_Community_Case_Study-purple.svg)](https://github.com/mradurdymyradov/fastapi-telegram-subscription-starter/blob/main/CASE_STUDY.md)
 
-I turn operating problems into deployed, production-grade systems. With a background in business and management, I orchestrate AI coding agents (Claude Code, OpenAI Codex, Antigravity) for rapid implementation while personally owning product requirements, architecture decisions, data modeling, automated test suites, production deployments, and operational monitoring.
+I turn operating problems into deployed systems. With a Business and Management background, I use AI coding agents (Claude Code, OpenAI Codex, and Antigravity) for implementation while I own requirements, acceptance criteria, architecture choices, release validation, launch operations, and iteration. I do not claim to hand-write the underlying codebase.
 
 ---
 
@@ -15,13 +15,13 @@ I turn operating problems into deployed, production-grade systems. With a backgr
 ### 1. [Subscription Community Platform & Billing Engine (Pavel Community)](https://github.com/mradurdymyradov/fastapi-telegram-subscription-starter)
 *Production full-stack membership SaaS with automated billing, Telegram bot access control, and Next.js admin.*
 
-> 📊 **Commercial Output (First 7 Days):** Processed **€1,648 EUR**, **₽251,500 RUB**, and **$4,306 USD** across three payment rails with zero double-charge incidents and 100% automated lifecycle fulfillment. Read the full **[Production Case Study (CASE_STUDY.md)](https://github.com/mradurdymyradov/fastapi-telegram-subscription-starter/blob/main/CASE_STUDY.md)**.
+> 📊 **Operator-reported launch-week volume:** **€1,648 EUR**, **₽251,500 RUB**, and **$4,306 USD** in the original currencies. The figures are not converted or combined and are not independently audited. Read the full **[Production Case Study](https://github.com/mradurdymyradov/fastapi-telegram-subscription-starter/blob/main/CASE_STUDY.md)**.
 
 - **FastAPI 18-Router Backend:** Async SQLAlchemy 2 + Alembic (28 PostgreSQL models), JWT authentication with TOTP 2FA, and structured telemetry.
 - **Idempotent Multi-Provider Fulfillment:** Unified `fulfill_payment` engine supporting Stripe recurring subscriptions and on-chain USDT crypto verification (TronGrid TRC-20 and Etherscan ERC-20 with 3-block confirmations).
 - **Autonomous Lifecycle Bot (`aiogram 3`):** Generates single-use invite tokens, tracks referral attributions (`?start=ref_<code>`), issues portal magic links, and handles background access revocation upon non-renewal.
 - **Next.js 14 Admin Panel:** Real-time MRR, subscriber retention metrics, manual payment review queue, and segment broadcasts.
-- **Test Invariants:** Suite of **929 automated tests** passing in CI with 100% mocked external dependencies.
+- **Verification:** **938 backend tests** and **8 deployment-helper tests** pass in CI alongside both frontend builds and Docker image smoke builds.
 
 ---
 
@@ -36,9 +36,9 @@ I turn operating problems into deployed, production-grade systems. With a backgr
 ---
 
 ### 3. [Speed to Lead Inbound Engine](https://github.com/mradurdymyradov/speed-to-lead)
-*Sub-minute inbound lead qualification, automated Twilio SMS, and Vapi Voice AI dispatch.*
+*Importable n8n workflow template for Twilio SMS and Vapi Voice AI dispatch.*
 
-- **Sub-Minute Dual-Channel Outreach:** Captures webhook form leads, formats phone numbers to E.164, and triggers simultaneous personalized Twilio SMS and outbound AI phone qualification call via Vapi.ai API.
+- **Parallel Dispatch Path:** Captures a documented webhook payload, cleans phone formatting, and triggers Twilio SMS and Vapi.ai voice-call branches after CRM logging.
 - **CRM Sync:** Appends structured contact records, form IDs, and submission timestamps directly to Google Sheets CRM.
 
 ---
@@ -57,23 +57,21 @@ I turn operating problems into deployed, production-grade systems. With a backgr
 | :--- | :--- |
 | **Product & Operations** | Requirements Scoping, System Architecture, Payment Flows, Retention & Churn Analytics, GTM Workflows |
 | **AI Agent Orchestration** | Claude Code, OpenAI Codex, Antigravity, Multi-Agent Pipelines, Evaluation Guardrails, Prompt Engineering |
-| **Backend & Databases** | FastAPI, Python 3.11, Pytest (900+ test suites), PostgreSQL 16, SQLAlchemy 2 (Async), Redis 7, SQLite, Prisma |
+| **Systems used in agent-assisted projects** | FastAPI, Python 3.11, PostgreSQL, Redis, Next.js, TypeScript, Prisma, Docker, GitHub Actions |
 | **Frontend & Dashboards** | Next.js 16/14 (App Router), React 19, TypeScript, Tailwind CSS, TanStack Query, Recharts |
 | **Workflow Automation** | n8n (Production workflows), Webhook Listeners, Twilio SMS, Vapi.ai Voice API, Google Sheets API |
 | **DevOps & Infrastructure** | Docker, Docker Compose, Caddy 2 (Auto SSL), GitHub Actions CI, Linux, Git |
 
 ---
 
-## 🇺🇸 US Work Authorization
+## 🇺🇸 US Placement Pathway
 
-> **BridgeUSA J-1 Intern Placement Ready (2026 University Graduate)**  
-> Actively seeking 9–12 month placements in **AI Automation, GTM Operations, Founder-Associate, or Product Operations** in San Francisco, NYC, or US Remote.  
-> - **Sponsorship Model:** Form DS-2019 is issued directly through official State Department designated sponsors (e.g. Odyssey International, Intrax) with streamlined host company onboarding.  
-> - **Availability:** Flexible start date; available for full-time 40 hr/week onsite or remote engagements.
+> **Potential BridgeUSA J-1 Intern candidate (Business and Management graduate, June 2026).**
+> Seeking structured, supervised placements in **AI Automation, GTM Operations, Founder Associate, or Product Operations** in San Francisco or New York. Eligibility and placement require a designated sponsor, a qualifying host organization, an approved DS-7002 training plan, DS-2019 issuance, and visa approval.
 
 ---
 
 ## 📬 Connect
 
 - **GitHub:** [@mradurdymyradov](https://github.com/mradurdymyradov)
-- **Location:** Ashgabat (GMT+5) · Open to US Relocation (SF / NYC) & US Remote
+- **Location:** Ashgabat (GMT+5) · Open to relocation to San Francisco or New York
