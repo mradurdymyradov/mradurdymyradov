@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Myrat Durdymyradov 👋
 
-### AI-Assisted Product & Automation Builder | GTM Operations
+### AI-Native Product & Automation Builder | GTM Operations
 
 [![Focus](https://img.shields.io/badge/Focus-AI_Automation_%7C_GTM_Operations_%7C_Product_Ops-blue.svg)](#-primary-proof-of-work)
 [![US Visa Pathway](https://img.shields.io/badge/US_Visa_Pathway-Potential_BridgeUSA_J--1_Intern-success.svg)](#-us-placement-pathway)
@@ -67,7 +67,7 @@ I turn operating problems into deployed systems. With a Business and Management 
 ## 🇺🇸 US Placement Pathway
 
 > **Potential BridgeUSA J-1 Intern candidate (Business and Management graduate, June 2026).**
-> Seeking structured, supervised placements in **AI Automation, GTM Operations, Founder Associate, or Product Operations** in San Francisco or New York. Eligibility and placement require a designated sponsor, a qualifying host organization, an approved DS-7002 training plan, DS-2019 issuance, and visa approval.
+> Seeking structured, supervised placements in **AI Automation, GTM Operations, Founder Associate, or Product Operations** in the USA. Eligibility and placement require a designated sponsor, a qualifying host organization, an approved DS-7002 training plan, DS-2019 issuance, and visa approval.
 
 ---
 
@@ -75,4 +75,4 @@ I turn operating problems into deployed systems. With a Business and Management 
 
 - **GitHub:** [@mradurdymyradov](https://github.com/mradurdymyradov)
 - **Email:** [myrat.durdymyradov.dev@gmail.com](mailto:myrat.durdymyradov.dev@gmail.com)
-- **Location:** Ashgabat (GMT+5) · Open to relocation to San Francisco or New York
+- **Location:** Ashgabat (GMT+5) · Open to relocation to the USA
